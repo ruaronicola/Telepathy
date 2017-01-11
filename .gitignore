@@ -1,0 +1,6 @@
+#Untracked files and directories
+/venv
+*.DS_Store
+/contents/*.pyc
+/contents/config.py
+/contents/app.wsgi
