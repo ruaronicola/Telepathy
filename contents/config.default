@@ -1,3 +1,6 @@
+### Secret key used for flask.session ###
+SECRET_KEY = ""
+
 ### MongoDB configuration ###
 MONGOLAB_PASS = ""
 MONGOLAB_PORT = ""
